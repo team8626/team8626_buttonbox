@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "ButtonBox/ButtonBox.ino"
+}
